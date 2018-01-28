@@ -1,3 +1,3 @@
 # AuTo:Do
 
-<https://tamamu.github.io/tamamu/autodo/>
+<https://tamamu.github.io/autodo/>
